@@ -181,6 +181,14 @@ nav [aria-current="page"] {
   font-weight: bold;
 }
 
+nav a {
+  color: var(--light-blue);
+}
+
+nav a:hover {
+  color: var(--seafoam);
+}
+
 /* styling for links */
 a {
   color: var(--seafoam);
