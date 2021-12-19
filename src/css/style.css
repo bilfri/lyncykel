@@ -8,7 +8,7 @@
 html {
 --medium-blue: rgb(0, 28, 188);
 --dark-blue: rgb(22, 22, 42);	
---seafoam: rgb(129, 240, 179);	
+--seafoam: rgb(129, 240, 179);
 --light-blue: rgb(184, 184, 255);
 --red: rgb(197, 19, 19);
 --pink: rgb(255, 211, 180);
@@ -170,13 +170,12 @@ h1 {
 
 /* styling for the currently active menu tab */
 nav [aria-current="page"] {
-  font-family: 'body-font';
   font-weight: bold;
 }
 
 /* styling for links */
 a {
-  color: #362929;
+  color: var(--seafoam);
   text-underline-offset: 0.2em;
   text-decoration-thickness: 1px;
 }
