@@ -152,6 +152,7 @@ h1 {
   margin-top: -15px;
   font-size: 144px;
   color: var(--yellow);
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 600px) {
