@@ -1,0 +1,250 @@
+/* Very Smol Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* theme color variables */
+html {
+--medium-blue: rgb(0, 28, 188);
+--dark-blue: rgb(22, 22, 42);	
+--seafoam: rgb(129, 240, 179);	
+--light-blue: rgb(184, 184, 255);
+--red: rgb(197, 19, 19);
+--pink: rgb(255, 211, 180);
+--yellow: rgb(255, 244, 32);
+}
+
+/* Background */
+body {
+  background-color: var(--dark-blue);
+  background-size: cover;
+}
+
+/************************ Layout ******************************/
+
+/* settings for the bounding box of the website */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
+}
+
+/* global settings that apply to all the elements on the site */
+body > * {
+  --layout-spacing: max(8vh, 3rem);
+  --max-width: 50ch;
+  width: min(100%, var(--max-width));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* specifies settings for the nav bar as a whole*/
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  justify-content: center;
+}
+
+/* specifies settings for each nav element */
+nav ul li {
+  padding: 0.5rem 2rem;
+}
+
+header,
+main,
+main > * + * {
+  margin-top: var(--layout-spacing);
+}
+
+/* footer settings */
+body > footer {
+  font-family: 'nav-font';
+  font-size: 16px;
+  color:rgba(0, 0, 0, 0.35);
+  margin-top: 400px;
+  padding-top: var(--layout-spacing);
+  text-align: center;
+}
+
+body > footer div {
+  border-top: 1px solid #ccc;
+  padding-top: 0.5em;
+  font-size: 0.9rem;
+  color: #767676;
+}
+
+/* article settings */ 
+article * + * {
+  margin-top: 1em;
+}
+
+/**************************** Typography ****************************/
+
+@font-face {
+  font-family: 'nav-font';
+  src: url("../fonts/subset-Montserrat-Medium.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: 'title-font';
+  src: url("../fonts/subset-BodoniModa24pt-Bold.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: 'heading-font';
+  src: url("../fonts/subset-BodoniModa24pt-Medium.woff2") format('woff2');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'body-font';
+  src: url("../fonts/subset-FanwoodText.woff2") format('woff2');
+  src: url("../fonts/Fanwood\ Text.otf") format('opentype');
+  font-feature-settings: "lnum";
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'body-font';
+  src: url("../fonts/subset-FanwoodText-Italic.woff2") format('woff2');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'body-font';
+  src: url("../fonts/subset-Montserrat-Bold.woff2") format('woff2');
+  font-weight: bold;
+}
+
+nav {
+  font-family: 'nav-font', sans-serif;
+  font-size: 16px;
+  color: #4d1e1e;
+}
+
+main {
+  font-family: 'body-font', serif;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #141414;
+}
+
+strong {
+  font-size: 14.2px;
+}
+
+h1 {
+  font-family: 'title-font', serif;
+  font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
+  margin-bottom: 30px;
+  margin-top: -15px;
+  font-size: 144px;
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 24vw;
+  }
+}
+
+:is(h1, h2, h3) {
+  line-height: 0.95;
+}
+
+:is(h1, h2) {
+  max-width: 40ch;
+}
+
+:is(h2, h3) {
+  margin-top: 1.5em;
+  font-family: 'heading-font';
+  color: #302020;
+}
+
+/* styling for the currently active menu tab */
+nav [aria-current="page"] {
+  font-family: 'body-font';
+  font-weight: bold;
+}
+
+/* styling for links */
+a {
+  color: #362929;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+}
+
+a:hover {
+  outline: 1px solid currentColor;
+  outline-offset: 0.2em;
+}
+
+/************************ Media ***********************************/
+
+article img {
+  display: block;
+  width: 100%;
+  min-height: 20rem;
+  max-height: 40vh;
+  object-fit: cover;
+  margin: 2rem auto;
+}
+
+@supports (aspect-ratio: 1) {
+  article img {
+    max-height: unset;
+    aspect-ratio: 3/2;
+  }
+}
+
+/********************* Supporting Content *************************/
+
+
+/* Inline code */
+
+code:not([class*="language"]) {
+  font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
+  font-size: 14px;
+  color: #444;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding-right: 0.15em;
+  padding-left: 0.15em;
+}
+
+/* lists */
+
+main ul li {
+  margin: 10px 0px;
+}
+
+/* blockquotes */
+
+blockquote {
+  margin: 2rem 0;
+  padding: 0.5em 1rem;
+  border-left: 3px solid rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 0 0.25rem 0.25rem 0;
+}
+
+/* Dark mode */
+
+@media (prefers-color-scheme: dark) {
+  /* Invert all elements on the body while attempting to not alter the hue substantially. */
+  body {
+    filter: invert(100%) hue-rotate(180deg);
+  }
+
+  /* Firefox workaround: Set the background colour for the html
+     element separately because, unlike other browsers, Firefox
+     doesn’t apply the filter to the root element’s background. */
+  html {
+    background-color: #111;
+  }
+}
