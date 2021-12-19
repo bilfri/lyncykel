@@ -57,12 +57,10 @@ nav ul {
 
 /* specifies settings for each nav element */
 nav ul li {
-  padding: 0.5rem 2rem;
+  padding: 0rem 0.5rem;
 }
 
-header,
-main,
-main > * + * {
+header, main, main > * + * {
   margin-top: var(--layout-spacing);
 }
 
@@ -151,14 +149,14 @@ h1 {
   font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
   margin-bottom: 30px;
   margin-top: -15px;
-  font-size: 144px;
+  font-size: 96px;
   color: var(--yellow);
   text-transform: uppercase;
 }
 
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 24vw;
+    font-size: 16vw;
   }
 }
 
