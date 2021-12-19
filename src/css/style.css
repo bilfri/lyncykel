@@ -144,7 +144,7 @@ strong {
 }
 
 h1 {
-  font-family: 'title-font', serif;
+  font-family: 'title-font', sans-serif;
   font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
   margin-bottom: 30px;
   margin-top: -15px;
