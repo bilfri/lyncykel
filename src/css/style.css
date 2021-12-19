@@ -181,7 +181,7 @@ a {
 }
 
 a:hover {
-  outline: 1px solid currentColor;
+  outline: 2px solid var(--yellow);
   outline-offset: 0.2em;
 }
 
@@ -204,18 +204,6 @@ article img {
 }
 
 /********************* Supporting Content *************************/
-
-
-/* Inline code */
-
-code:not([class*="language"]) {
-  font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
-  font-size: 14px;
-  color: #444;
-  background-color: rgba(0, 0, 0, 0.1);
-  padding-right: 0.15em;
-  padding-left: 0.15em;
-}
 
 /* lists */
 
