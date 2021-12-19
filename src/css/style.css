@@ -40,6 +40,10 @@ body > * {
   margin-right: auto;
 }
 
+:is(h1, h2) {
+  max-width: 40ch;
+}
+
 /* specifies settings for the nav bar as a whole*/
 nav ul {
   list-style: none;
@@ -125,14 +129,14 @@ article * + * {
 nav {
   font-family: 'nav-font', sans-serif;
   font-size: 16px;
-  color: #4d1e1e;
+  color: var(--seafoam);
 }
 
 main {
   font-family: 'body-font', serif;
   font-size: 20px;
   line-height: 1.5;
-  color: #141414;
+  color: var(--light-blue);
 }
 
 strong {
@@ -145,6 +149,7 @@ h1 {
   margin-bottom: 30px;
   margin-top: -15px;
   font-size: 144px;
+  color: var(--yellow);
 }
 
 @media screen and (max-width: 600px) {
@@ -157,14 +162,10 @@ h1 {
   line-height: 0.95;
 }
 
-:is(h1, h2) {
-  max-width: 40ch;
-}
-
 :is(h2, h3) {
   margin-top: 1.5em;
   font-family: 'heading-font';
-  color: #302020;
+  color: var(--light-blue);
 }
 
 /* styling for the currently active menu tab */
