@@ -1,5 +1,5 @@
 ---
-title: Page One
+title: Motor
 ---
 
 This is the first page.

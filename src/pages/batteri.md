@@ -1,5 +1,5 @@
 ---
-title: Page Two
+title: Batteri
 ---
 
 This is the second page.
