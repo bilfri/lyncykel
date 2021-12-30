@@ -30,9 +30,9 @@
      fit-margin-bottom="0"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-global="false"
-     inkscape:zoom="0.82706282"
-     inkscape:cx="1472.0768"
-     inkscape:cy="231.54227"
+     inkscape:zoom="0.6260406"
+     inkscape:cx="1820.1695"
+     inkscape:cy="457.63805"
      inkscape:window-width="1366"
      inkscape:window-height="699"
      inkscape:window-x="0"
@@ -101,6 +101,18 @@
        width="654.35437"
        height="346.63129"
        id="rect57764-9-6-4" />
+    <rect
+       x="1182.7628"
+       y="221.81348"
+       width="654.35437"
+       height="346.63129"
+       id="rect57764-9-6-4-1" />
+    <rect
+       x="1182.7628"
+       y="221.81348"
+       width="654.35437"
+       height="346.63129"
+       id="rect57764-9-6-4-1-4" />
   </defs>
   <g
      inkscape:label="raster"
@@ -836,42 +848,112 @@
        style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15669);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="81.326172"
          y="-48.294922"
-         id="tspan133721"><tspan
+         id="tspan49219"><tspan
            style="fill:#fff420"
-           id="tspan133717">LYN</tspan><tspan
+           id="tspan49215">LYN</tspan><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00012207031 -0.00012207031 0 0 0 0.00012207031"
            style="font-style:italic;font-weight:800;font-family:'Jost*';-inkscape-font-specification:'Jost* Ultra-Bold Italic';fill:#fff420;fill-opacity:0.758059"
-           id="tspan133719">CYKEL (Jost* Ultra-Bold Italic)</tspan></tspan></text>
+           id="tspan49217">CYKEL (Jost* Ultra-Bold Italic)</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,3.7116859,39.274592)"
+       transform="matrix(0.26458333,0,0,0.26458333,3.3613951,28.321162)"
        id="text57762-7-3-6"
        style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect57764-9-6-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="1182.7637"
-         y="246.63454"
-         id="tspan133725"><tspan
-           style="font-family:Author;-inkscape-font-specification:'Author weight=596';fill:#b8b8ff"
-           id="tspan133723">Her er der noget forklarende tekst om elcykler. Det er vigtigt at </tspan></tspan><tspan
+         y="245.6792"
+         id="tspan49223"><tspan
+           style="font-family:'Route 159';-inkscape-font-specification:'Route 159, ';fill:#b8b8ff"
+           id="tspan49221">Her er der noget forklarende tekst om elcykler. Det er </tspan></tspan><tspan
          x="1182.7637"
-         y="281.19618"
-         id="tspan133729"><tspan
-           style="font-family:Author;-inkscape-font-specification:'Author weight=596';fill:#b8b8ff"
-           id="tspan133727">have en stor motor. Den skal kunne fordøje alt mulig slags mad, </tspan></tspan><tspan
+         y="279.28549"
+         id="tspan49227"><tspan
+           style="font-family:'Route 159';-inkscape-font-specification:'Route 159, ';fill:#b8b8ff"
+           id="tspan49225">vigtigt at have en stor motor. Den skal kunne fordøje </tspan></tspan><tspan
          x="1182.7637"
-         y="315.75783"
-         id="tspan133733"><tspan
-           style="font-family:Author;-inkscape-font-specification:'Author weight=596';fill:#b8b8ff"
-           id="tspan133731">som f.eks. asparges, koriander, løg og meloner. Den skal have </tspan></tspan><tspan
+         y="312.89178"
+         id="tspan49231"><tspan
+           style="font-family:'Route 159';-inkscape-font-specification:'Route 159, ';fill:#b8b8ff"
+           id="tspan49229">alt mulig slags mad, som f.eks. asparges, koriander, </tspan></tspan><tspan
          x="1182.7637"
-         y="350.31947"
-         id="tspan133737"><tspan
-           style="font-family:Author;-inkscape-font-specification:'Author weight=596';fill:#b8b8ff"
-           id="tspan133735">saft og kraft til de stejle bakker. Hvis du har en for lille motor </tspan></tspan><tspan
+         y="346.49807"
+         id="tspan49235"><tspan
+           style="font-family:'Route 159';-inkscape-font-specification:'Route 159, ';fill:#b8b8ff"
+           id="tspan49233">løg og meloner. Den skal have saft og kraft til de stejle </tspan></tspan><tspan
          x="1182.7637"
-         y="384.88112"
-         id="tspan133741"><tspan
-           style="font-family:Author;-inkscape-font-specification:'Author weight=596';fill:#b8b8ff"
-           id="tspan133739">brænder den sammen. (Author)</tspan></tspan></text>
+         y="380.10437"
+         id="tspan49239"><tspan
+           style="font-family:'Route 159';-inkscape-font-specification:'Route 159, ';fill:#b8b8ff"
+           id="tspan49237">bakker. Hvis du har en for lille motor brænder den </tspan></tspan><tspan
+         x="1182.7637"
+         y="413.71066"
+         id="tspan49243"><tspan
+           style="font-family:'Route 159';-inkscape-font-specification:'Route 159, ';fill:#b8b8ff"
+           id="tspan49241">sammen. (Author)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,204.67505,30.932223)"
+       id="text57762-7-3-6-0"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect57764-9-6-4-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="1182.7637"
+         y="246.4792"
+         id="tspan49247"><tspan
+           style="font-family:LilGrotesk;-inkscape-font-specification:LilGrotesk;fill:#b8b8ff"
+           id="tspan49245">Her er der noget forklarende tekst om elcykler. Det er </tspan></tspan><tspan
+         x="1182.7637"
+         y="280.88548"
+         id="tspan49251"><tspan
+           style="font-family:LilGrotesk;-inkscape-font-specification:LilGrotesk;fill:#b8b8ff"
+           id="tspan49249">vigtigt at have en stor motor. Den skal kunne fordøje </tspan></tspan><tspan
+         x="1182.7637"
+         y="315.29176"
+         id="tspan49255"><tspan
+           style="font-family:LilGrotesk;-inkscape-font-specification:LilGrotesk;fill:#b8b8ff"
+           id="tspan49253">alt mulig slags mad, som f.eks. asparges, koriander, </tspan></tspan><tspan
+         x="1182.7637"
+         y="349.69804"
+         id="tspan49259"><tspan
+           style="font-family:LilGrotesk;-inkscape-font-specification:LilGrotesk;fill:#b8b8ff"
+           id="tspan49257">løg og meloner. Den skal have saft og kraft til de </tspan></tspan><tspan
+         x="1182.7637"
+         y="384.10432"
+         id="tspan49263"><tspan
+           style="font-family:LilGrotesk;-inkscape-font-specification:LilGrotesk;fill:#b8b8ff"
+           id="tspan49261">stejle bakker. Hvis du har en for lille motor brænder </tspan></tspan><tspan
+         x="1182.7637"
+         y="418.5106"
+         id="tspan49267"><tspan
+           style="font-family:LilGrotesk;-inkscape-font-specification:LilGrotesk;fill:#b8b8ff"
+           id="tspan49265">den sammen. (Author)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,14.671973,93.465797)"
+       id="text57762-7-3-6-0-2"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect57764-9-6-4-1-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="1182.7637"
+         y="245.54586"
+         id="tspan49271"><tspan
+           style="font-family:Vegur;-inkscape-font-specification:Vegur;fill:#b8b8ff"
+           id="tspan49269">Her er der noget forklarende tekst om elcykler. Det er vigtigt </tspan></tspan><tspan
+         x="1182.7637"
+         y="279.01882"
+         id="tspan49275"><tspan
+           style="font-family:Vegur;-inkscape-font-specification:Vegur;fill:#b8b8ff"
+           id="tspan49273">at have en stor motor. Den skal kunne fordøje alt mulig slags </tspan></tspan><tspan
+         x="1182.7637"
+         y="312.49179"
+         id="tspan49279"><tspan
+           style="font-family:Vegur;-inkscape-font-specification:Vegur;fill:#b8b8ff"
+           id="tspan49277">mad, som f.eks. asparges, koriander, løg og meloner. Den </tspan></tspan><tspan
+         x="1182.7637"
+         y="345.96475"
+         id="tspan49283"><tspan
+           style="font-family:Vegur;-inkscape-font-specification:Vegur;fill:#b8b8ff"
+           id="tspan49281">skal have saft og kraft til de stejle bakker. Hvis du har en for </tspan></tspan><tspan
+         x="1182.7637"
+         y="379.43771"
+         id="tspan49287"><tspan
+           style="font-family:Vegur;-inkscape-font-specification:Vegur;fill:#b8b8ff"
+           id="tspan49285">lille motor brænder den sammen. (Author)</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-1.7238642,-7.7358733)"
@@ -879,8 +961,8 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect67722);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="1206.3184"
          y="323.75007"
-         id="tspan133745"><tspan
+         id="tspan49291"><tspan
            style="font-weight:bold;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#81f0b3"
-           id="tspan133743">Affjedring (Montserrat Bold)</tspan></tspan></text>
+           id="tspan49289">Affjedring (Montserrat Bold)</tspan></tspan></text>
   </g>
 </svg>

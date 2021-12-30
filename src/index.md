@@ -3,7 +3,8 @@ title: Lyncykel
 layout: page.njk
 ---
 
-<img src="/images/lyncykel-plain.svg" />
+<object data="/images/lyncykel-plain.svg" type="image/svg+xml" class="lyncykel">
+
 
 ## Tester lige en overskrift
 
