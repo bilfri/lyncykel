@@ -2,9 +2,10 @@
     display: grid;
     justify-content: center;
     margin: 0 auto;
+
 }
 
-.lyncykel a:hover {
+.lyncykel >*:hover {
     transform: scale(1.2);
 }
 
