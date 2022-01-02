@@ -159,12 +159,12 @@ h1 {
   font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
   margin-bottom: 30px;
   margin-top: -15px;
-  font-size: 96px;
+  font-size: 144px;
   color: var(--yellow);
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
   h1 {
     font-size: 16vw;
   }
