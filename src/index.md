@@ -12,3 +12,5 @@ layout: page.njk
 ## lyncykel er fremtiden
 
 ## Pris
+20.000 kr.
+mere tekst

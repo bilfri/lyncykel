@@ -2,11 +2,9 @@
     display: grid;
     justify-content: center;
     margin: 0 auto;
-
 }
 
-.lyncykel >*:hover {
-    transform: scale(1.2);
+.lyncykel a:hover {
+    outline: 1px solid var(--yellow);
+    outline-offset: 0.2em;
 }
-
-
