@@ -1,3 +1,11 @@
-.lyncykel{
+.lyncykel {
+    display: grid;
     justify-content: center;
+    margin: 0 auto;
 }
+
+.lyncykel a:hover {
+    transform: scale(1.2);
+}
+
+
