@@ -40,6 +40,10 @@ body > * {
   margin-right: auto;
 }
 
+header {
+  width: min(100%, 90%);
+}
+
 :is(h1, h2) {
   max-width: 40ch;
 }
