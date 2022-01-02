@@ -1,5 +1,5 @@
 ---
-title: Kæde og gear
+title: Kæde & gear
 ---
 
 ## Skal passe til motor
