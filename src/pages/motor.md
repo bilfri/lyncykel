@@ -2,4 +2,8 @@
 title: Motor
 ---
 
-This is the first page.
+## Hastighedsregler
+
+## Max ydelse
+
+## Typer
