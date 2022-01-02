@@ -3,8 +3,12 @@ title: Lyncykel
 layout: page.njk
 ---
 
-## Tester lige en overskrift
+## Komponenter
 
-Her er der noget info om hvad der skal ske idag
+## Sådan vurderer du om det er et godt køb
 
-### Her skal der så vær et billede
+## Spørg din lokale forhandler om hjælp
+
+## lyncykel er fremtiden
+
+## Pris
