@@ -4,6 +4,7 @@ layout: page.njk
 ---
 
 ## Hvad er en lyncykel?
+virker det stadig?
 
 ## Komponenter
 
