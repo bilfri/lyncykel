@@ -6,7 +6,7 @@ layout: page.njk
 ## Hvad er en lyncykel?
 virker det stadig?
 
-## Komponenter
+## Speed Pedelec
 
 ## Sådan vurderer du om det er et godt køb
 

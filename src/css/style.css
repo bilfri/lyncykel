@@ -34,7 +34,7 @@ body {
 /* global settings that apply to all the elements on the site */
 body > * {
   --layout-spacing: max(8vh, 3rem);
-  --max-width: 70ch;
+  --max-width: 75ch;
   width: min(100%, var(--max-width));
   margin-left: auto;
   margin-right: auto;
@@ -70,6 +70,7 @@ header, main, main > * + * {
 
 /* footer settings */
 body > footer {
+  font-family: "PT-Sans-Caption";
   font-size: 16px;
   color:rgba(0, 0, 0, 0.35);
   margin-top: 400px;
@@ -91,11 +92,6 @@ article * + * {
 
 /**************************** Typography ****************************/
 
-@font-face {
-  font-family: 'nav-font';
-  src: url("../fonts/subset-Montserrat-Medium.woff2") format('woff2');
-}
-
 /* logo font */
 @font-face {
   font-family: 'Jost-UltraBold-Italic';
@@ -110,46 +106,27 @@ article * + * {
   font-weight: 500;
 }
 
-/* text font */
 @font-face {
-  font-family: 'Author';
-  src: url("../fonts/Author-Regular.woff2") format('woff2');
-  font-feature-settings: "lnum";
-  font-display: swap;
+  font-family: 'PT-Sans-Caption';
+  src: url("../fonts/PT-Sans_Caption-Regular.woff2") format('woff2');
 }
 
-/* text font */
 @font-face {
-  font-family: 'Author';
-  src: url("../fonts/Author-Italic.woff2") format('woff2');
-  font-style: italic;
-}
-
-/* text font */
-@font-face {
-  font-family: 'Author';
-  src: url("../fonts/Author-Bold.woff2") format('woff2');
-  font-weight: bold;
-}
-
-/* text font */
-@font-face {
-  font-family: 'Author';
-  src: url("../fonts/Author-BoldItalic.woff2") format('woff2');
-  font-style: italic;
+  font-family: 'PT-Sans-Caption';
+  src: url("../fonts/PT-Sans_Caption-Bold.woff2") format('woff2');
   font-weight: bold;
 }
 
 nav {
-  font-family: 'Author', sans-serif;
+  font-family: 'PT-Sans-Caption', sans-serif;
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 14px;
   color: var(--seafoam);
 }
 
 main {
-  font-family: 'Author', serif;
-  font-size: 20px;
+  font-family: 'PT-Sans-Caption', sans-serif;
+  font-size: 18px;
   line-height: 1.5;
   color: var(--light-blue);
 }
