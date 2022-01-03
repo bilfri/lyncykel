@@ -3,6 +3,8 @@ title: Lyncykel
 layout: page.njk
 ---
 
+## Hvad er en lyncykel?
+
 ## Komponenter
 
 ## Sådan vurderer du om det er et godt køb
