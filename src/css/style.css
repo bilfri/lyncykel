@@ -92,6 +92,12 @@ article * + * {
 
 /**************************** Typography ****************************/
 
+/* nav font */
+@font-face {
+  font-family: 'VG5000';
+  src: url(../fonts/VG5000-Regular_web.woff2) format('woff2');
+}
+
 /* logo font */
 @font-face {
   font-family: 'Jost-UltraBold-Italic';
@@ -118,9 +124,9 @@ article * + * {
 }
 
 nav {
-  font-family: 'PT-Sans-Caption', sans-serif;
+  font-family: 'VG5000', sans-serif;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 15px;
   color: var(--seafoam);
 }
 
@@ -164,6 +170,7 @@ nav [aria-current="page"] {
 
 nav a {
   color: var(--light-blue);
+  text-decoration: none;
 }
 
 nav a:hover {
