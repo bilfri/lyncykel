@@ -2,6 +2,15 @@
     display: grid;
     justify-content: center;
     margin: 0 auto;
+    width: 720px;
+    height: 412px;
+}
+
+@media screen and (max-width: 900px) {
+    .lyncykel {
+        width: 80vw;
+        height: 46vw;
+    }
 }
 
 .lyncykel a:hover {
