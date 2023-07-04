@@ -91,7 +91,7 @@
     </g>
     <a
        id="a1380"
-       xlink:href="https://lyncykel.dk/motor/">
+       xlink:href="/motor/">
       <path
          style="opacity:1;fill:#81f0b3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 138.20235,101.44731 c 0.1734,1.5688 -1.35337,6.86032 -2.66719,8.62114 -1.31382,1.76082 -1.35315,1.39346 -3.78046,2.4213 -2.42731,1.02784 -8.60754,2.23281 -11.02432,2.59824 -2.41678,0.36543 -2.06231,0.67932 -3.33125,0.22914 -2.43874,-2.31979 -4.38811,-5.1204 -4.0346,-6.83422 0.33327,-1.5752 1.9819,-5.66505 3.80574,-7.18507 1.82384,-1.520016 12.65713,-4.151392 14.68251,-3.817271 2.02538,0.334121 6.17618,2.397934 6.34957,3.966741 z"
@@ -103,7 +103,7 @@
        id="path23734" />
     <a
        id="a1301"
-       xlink:href="https://lyncykel.dk/hjul/">
+       xlink:href="/hjul/">
       <g
          id="g2768"
          style="display:inline;opacity:1">
@@ -448,7 +448,7 @@
     </a>
     <a
        id="a1290"
-       xlink:href="https://lyncykel.dk/bremser/">
+       xlink:href="/bremser/">
       <g
          id="g14025"
          style="display:inline;opacity:1">
@@ -569,7 +569,7 @@
     </g>
     <a
        id="a1276"
-       xlink:href="https://lyncykel.dk/stel/">
+       xlink:href="/stel/">
       <g
          id="g7740"
          style="display:inline;opacity:1">
@@ -592,7 +592,7 @@
     </a>
     <a
        id="a1377"
-       xlink:href="https://lyncykel.dk/batteri/">
+       xlink:href="/batteri/">
       <path
          style="display:inline;opacity:1;fill:#001cbc;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 166.89397,49.019335 c 0.6523,-1.183026 -2.96502,-0.491073 -3.74091,0.614827 -4.11114,5.859667 -24.12441,36.318937 -28.70801,44.002235 -0.47529,0.796702 0.26885,1.24603 1.16536,1.484544 1.33289,0.354606 3.78512,-4.112754 5.77345,-6.919022 5.47522,-9.004699 18.86962,-27.329827 25.51011,-39.182584 z"
@@ -600,7 +600,7 @@
     </a>
     <a
        id="a1268"
-       xlink:href="https://lyncykel.dk/affjedring/">
+       xlink:href="/affjedring/">
       <g
          id="g5539"
          style="display:inline;opacity:1">
@@ -634,7 +634,7 @@
     </a>
     <a
        id="a1282"
-       xlink:href="https://lyncykel.dk/gear/">
+       xlink:href="/gear/">
       <g
          id="g22124"
          style="display:inline;opacity:1">
